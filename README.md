@@ -31,5 +31,5 @@ The files are now saved on your google drive ready to be used, go to https://dri
 
 Open the program Weather_task.ipynb and click run all. The program should run and two CSV output files will download onto your local computer containing the information required.
 
-run.jpg
+![alt text](https://postlmg.cc/H8pYX53t)
 
