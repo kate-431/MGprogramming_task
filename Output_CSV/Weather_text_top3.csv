@@ -1,0 +1,33 @@
+City,WeatherText,WeatherType_%
+ brisbane , partly sunny ,0.33
+ brisbane , foggy ,0.21
+ brisbane , ground fog ,0.21
+ brisbane ,other,0.25
+ canberra , mostly cloudy ,0.17
+ canberra , thunderstorm ,0.12
+ canberra , cloudy ,0.12
+ canberra , partly cloudy ,0.12
+ canberra , partly sunny ,0.12
+ canberra ,other,0.33
+ darwin , partly sunny ,0.21
+ darwin , clear ,0.17
+ darwin , cloudy ,0.17
+ darwin , partly cloudy ,0.17
+ darwin ,other,0.29
+ hobart , cloudy ,0.25
+ hobart , mostly clear ,0.17
+ hobart , mostly sunny ,0.12
+ hobart , partly cloudy ,0.12
+ hobart , some clouds ,0.12
+ hobart , mostly cloudy ,0.12
+ hobart ,other,0.08
+ melbourne , mostly cloudy ,1.0
+ melbourne ,other,0.0
+ perth , cloudy ,0.21
+ perth , light rain shower ,0.21
+ perth , rain shower ,0.17
+ perth ,other,0.42
+ sydney , clear ,0.38
+ sydney , cloudy ,0.29
+ sydney , sunny ,0.17
+ sydney ,other,0.17
