@@ -22,9 +22,14 @@ This project is coded in a Google Colab Juypter notebook which uses Python 3.6, 
 
 ## Running the program
 
+As the programs were created in google colab, the following instructions explain how to run this program in colab, it can also be run on a local Juypter Notebook.
 Clone the github respitory to your google drive using the code below.
 
-!git clone https://github.com/kateh321/Mathproject
+!git clone https://github.com/kate-431/MGprogramming_task
 
-The files are now saved on your google drive ready to be used, go to https://drive.google.com/drive/my-drive and a new folder Mathproject should be present with the programs in it.
+The files are now saved on your google drive ready to be used, go to https://drive.google.com/drive/my-drive and a new folder MGprogramming_task should be present with the program in it.
+
+Open the program Weather_task.ipynb and click run all. The program should run and two CSV output files will download onto your local computer containing the information required.
+
+run.jpg
 
